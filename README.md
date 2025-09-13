@@ -6,5 +6,5 @@
 1. 파일 이름_날짜 기입 
 ex ) Mission_1_0910.ipynb (미션이름_날짜).ipynb
 
-2. commit message에 자신 모델의 평가지표 기입
+2. commit message에 미션 평가지표에 맞는 자신 모델의 평가지표 기입
 ex ) mAP@0.5 = 0.999 
